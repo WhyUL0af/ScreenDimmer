@@ -1,0 +1,9 @@
+@"
+.vs/
+bin/
+obj/
+**/bin/
+**/obj/
+*.user
+*.suo
+"@ | Set-Content -Encoding utf8 .gitignore
